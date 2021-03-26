@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>
-            TEST | YEHOR SOROKIN
+            Welcome
         </title>
     </head>
     
